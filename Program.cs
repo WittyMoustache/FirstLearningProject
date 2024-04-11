@@ -1,7 +1,7 @@
 ﻿class Program
 {
-    int a = 42;
-    int b = 119;
+    int a = 4;
+    int b = 5;
     int c = a + b;
     Console.WriteLine(c);
     Console.ReadKey();
