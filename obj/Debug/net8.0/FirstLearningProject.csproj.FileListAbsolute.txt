@@ -1,0 +1,15 @@
+D:\proyectoVIDA\FirstLearningProject\bin\Debug\net8.0\FirstLearningProject.exe
+D:\proyectoVIDA\FirstLearningProject\bin\Debug\net8.0\FirstLearningProject.deps.json
+D:\proyectoVIDA\FirstLearningProject\bin\Debug\net8.0\FirstLearningProject.runtimeconfig.json
+D:\proyectoVIDA\FirstLearningProject\bin\Debug\net8.0\FirstLearningProject.dll
+D:\proyectoVIDA\FirstLearningProject\bin\Debug\net8.0\FirstLearningProject.pdb
+D:\proyectoVIDA\FirstLearningProject\obj\Debug\net8.0\FirstLearningProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectoVIDA\FirstLearningProject\obj\Debug\net8.0\FirstLearningProject.AssemblyInfoInputs.cache
+D:\proyectoVIDA\FirstLearningProject\obj\Debug\net8.0\FirstLearningProject.AssemblyInfo.cs
+D:\proyectoVIDA\FirstLearningProject\obj\Debug\net8.0\FirstLearningProject.csproj.CoreCompileInputs.cache
+D:\proyectoVIDA\FirstLearningProject\obj\Debug\net8.0\FirstLearningProject.sourcelink.json
+D:\proyectoVIDA\FirstLearningProject\obj\Debug\net8.0\FirstLearningProject.dll
+D:\proyectoVIDA\FirstLearningProject\obj\Debug\net8.0\refint\FirstLearningProject.dll
+D:\proyectoVIDA\FirstLearningProject\obj\Debug\net8.0\FirstLearningProject.pdb
+D:\proyectoVIDA\FirstLearningProject\obj\Debug\net8.0\FirstLearningProject.genruntimeconfig.cache
+D:\proyectoVIDA\FirstLearningProject\obj\Debug\net8.0\ref\FirstLearningProject.dll
