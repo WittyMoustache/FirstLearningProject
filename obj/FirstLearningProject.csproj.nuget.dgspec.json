@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProyectoVIDA\\FirstLearningProject\\FirstLearningProject.csproj": {}
+    "d:\\ProyectoVIDA\\FirstLearningProject\\FirstLearningProject.csproj": {}
   },
   "projects": {
-    "D:\\ProyectoVIDA\\FirstLearningProject\\FirstLearningProject.csproj": {
+    "d:\\ProyectoVIDA\\FirstLearningProject\\FirstLearningProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProyectoVIDA\\FirstLearningProject\\FirstLearningProject.csproj",
+        "projectUniqueName": "d:\\ProyectoVIDA\\FirstLearningProject\\FirstLearningProject.csproj",
         "projectName": "FirstLearningProject",
-        "projectPath": "D:\\ProyectoVIDA\\FirstLearningProject\\FirstLearningProject.csproj",
+        "projectPath": "d:\\ProyectoVIDA\\FirstLearningProject\\FirstLearningProject.csproj",
         "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
-        "outputPath": "D:\\ProyectoVIDA\\FirstLearningProject\\obj\\",
+        "outputPath": "d:\\ProyectoVIDA\\FirstLearningProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config"
